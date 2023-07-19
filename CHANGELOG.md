@@ -1,3 +1,11 @@
+# 4.0.1 / 2023-07-18
+
+* [BUGFIX] Sort datapoints when creating Data object
+
+# 4.0.0 / 2023-07-18
+
+* [FEATURE] Support updated table element now in use on github.com. Thanks @shih91!
+
 # 3.3.0 / 2023-01-08
 
 * [BUGFIX] Update to handle changes to GitHub contribution chart SVG naming
